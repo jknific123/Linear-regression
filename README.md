@@ -1,2 +1,2 @@
 # Linear-regression
-Forecasting buses arrival time using linear regression model
+Forecasting arrival time of buses using linear regression model.
